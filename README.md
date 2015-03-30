@@ -1,5 +1,8 @@
 == README
 
+Hey, it’s Lizzie from Purple Planet Web Design and I’m having fun this morning going through a Ruby tutorial! Enjoy!
+=====================================================================================
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
